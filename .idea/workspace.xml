@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad799410-16b9-4f6a-9f6d-3fe9af40cf96" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plane ticket.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/passenger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +38,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -67,25 +62,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610349078783</updated>
-      <workItem from="1610349082825" duration="1263000" />
+      <workItem from="1610349082825" duration="1876000" />
     </task>
+    <task id="LOCAL-00001" summary="乘客">
+      <created>1610352030800</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610352030800</updated>
+    </task>
+    <task id="LOCAL-00002" summary="乘客">
+      <created>1610352107137</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610352107137</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="乘客" />
+    <option name="LAST_COMMIT_MESSAGE" value="乘客" />
   </component>
   <component name="WindowStateProjectService">
     <state x="619" y="132" key="#com.intellij.ide.util.MemberChooser" timestamp="1610351989449">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="619" y="132" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1610351989449" />
-    <state x="414" y="42" key="CommitChangelistDialog2" timestamp="1610352029769">
+    <state x="414" y="42" key="CommitChangelistDialog2" timestamp="1610352106199">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="414" y="42" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1610352029769" />
+    <state x="414" y="42" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1610352106199" />
     <state x="594" y="189" key="FileChooserDialogImpl" timestamp="1610349280184">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -94,9 +105,13 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="635" y="361" width="382" height="175" key="Github.CreateGistDialog/0.0.1600.860@0.0.1600.860" timestamp="1610351752712" />
-    <state x="678" y="339" width="273" height="272" key="Github.ShareDialog" timestamp="1610349263481">
+    <state x="678" y="339" width="273" height="272" key="Github.ShareDialog" timestamp="1610352463105">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="678" y="339" width="273" height="272" key="Github.ShareDialog/0.0.1600.860@0.0.1600.860" timestamp="1610349263481" />
+    <state x="678" y="339" width="273" height="272" key="Github.ShareDialog/0.0.1600.860@0.0.1600.860" timestamp="1610352463105" />
+    <state x="315" y="90" key="SettingsEditor" timestamp="1610352632163">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="315" y="90" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1610352632163" />
   </component>
 </project>
